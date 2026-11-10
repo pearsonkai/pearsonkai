@@ -1,7 +1,25 @@
-## Hi there 👋
+*Hi there* 👋  
+Welcome to my profile 🙂  
+![](https://api.visitorbadge.io/api/VisitorHit?user=pearsonkai&repo=pearsonkai&countColor=%23007BFF)
+
+## About Me✨
+- 📖 I am a Computer Science Student at Dalhousie University in Halifax, NS.
+- 💼 I am currently a Junior Financial Analyst for the Department of Fisheries and Oceans Canada.
+- 🖼️ Passionate about computer graphics.
+- 🎬 Watch my YouTube Short on [lambertian diffuse lighting](https://www.youtube.com/shorts/YqueCP1wgCw)
+
+## What I'm Up To 🤔💭
+
+### hybriddisplay
+- 3rd Rendering Engine
+- Written in C++ w/ help from SDL3
+- [Web Assembly Demo](https://pearsonkai.github.io/hybriddisplay/) Available Now!!
+
+
+
 
 <!--
-**pearsonkai/pearsonkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pearsonkai/pearsonkai** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
