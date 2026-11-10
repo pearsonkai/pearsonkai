@@ -10,7 +10,7 @@ Welcome to my profile 🙂
 
 ## What I'm Up To 🤔💭
 
-### hybriddisplay
+### [hybriddisplay](https://github.com/pearsonkai/hybriddisplay)
 - 3rd Rendering Engine
 - Written in C++ w/ help from SDL3
 - [Web Assembly Demo](https://pearsonkai.github.io/hybriddisplay/) Available Now!!
